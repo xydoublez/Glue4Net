@@ -1,0 +1,8 @@
+G:\github\Glue4Net\Glue4Net.Test.App\bin\Debug\log4net.dll
+G:\github\Glue4Net\Glue4Net.Test.App\bin\Debug\Glue4Net.Test.App.exe
+G:\github\Glue4Net\Glue4Net.Test.App\bin\Debug\Glue4Net.Test.App.pdb
+G:\github\Glue4Net\Glue4Net.Test.App\bin\Debug\Glue4Net.dll
+G:\github\Glue4Net\Glue4Net.Test.App\bin\Debug\Glue4Net.pdb
+G:\github\Glue4Net\Glue4Net.Test.App\obj\Debug\Glue4Net.Test.App.csprojResolveAssemblyReference.cache
+G:\github\Glue4Net\Glue4Net.Test.App\obj\Debug\Glue4Net.Test.App.exe
+G:\github\Glue4Net\Glue4Net.Test.App\obj\Debug\Glue4Net.Test.App.pdb

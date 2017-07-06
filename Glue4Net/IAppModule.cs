@@ -18,5 +18,6 @@ namespace Glue4Net
         }
         void Load();
         void UnLoad();
+        void Run();
     }
 }

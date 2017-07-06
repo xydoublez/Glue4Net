@@ -33,7 +33,7 @@ namespace Glue4Net
                     mWathers.Add(mWather);
                 }
             }
-            mTimer = new System.Threading.Timer(OnDetect, null, 5000, 5000);
+            mTimer = new System.Threading.Timer(OnDetect, null, 2000, 2000);
 
         }
 

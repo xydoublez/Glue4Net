@@ -29,7 +29,7 @@ namespace Glue4Net.Test.Demo
 
         public string Name
         {
-            get {return "TEST"; }
+            get {return "测试模块"; }
         }
 
         public IEventLog Log
@@ -45,6 +45,11 @@ namespace Glue4Net.Test.Demo
                     return new TestImpl();
                 return null;
             };
+        }
+
+        public void Run()
+        {
+            throw new NotImplementedException();
         }
 
         public void UnLoad()
